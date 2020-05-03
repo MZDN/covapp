@@ -1,7 +1,7 @@
 {
     "label": "Francais",
     "keys": {
-        "answer_no": "Pas de",
+        "answer_no": "Non",
         "answer_region_no": "Je n'ai pas été à l'une des régions mentionnées ci-dessus",
         "answer_unknown": "Je ne sais pas",
         "answer_yes": "Oui",
